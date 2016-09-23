@@ -1,6 +1,6 @@
 {
   "name": "middleware-stack-printer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Print out your express middleware stack in a tree format",
   "main": "lib/middleware-stack-printer.js",
   "scripts": {
