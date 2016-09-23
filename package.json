@@ -1,0 +1,26 @@
+{
+  "name": "middleware-stack-printer",
+  "version": "0.0.0",
+  "description": "Print out your express middleware stack in a tree format",
+  "main": "lib/middleware-stack-printer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErisDS/middleware-stack-printer.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "stack",
+    "print",
+    "debug"
+  ],
+  "author": "Hannah Wolfe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErisDS/middleware-stack-printer/issues"
+  },
+  "homepage": "https://github.com/ErisDS/middleware-stack-printer#readme"
+}
